@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "latest_version": "4.2.1",
+  "latest_build": 69,
+  "store_latest_build": 0,
+  "min_supported_build": 0,
+  "apk_url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v4.2.1/waiteki.apk",
+  "apk_sha256": "",
+  "store_url": "https://www.amazon.com/gp/mas/dl/android?p=com.waiteki.learn",
+  "grace_days": 5,
+  "released_at": "2026-10-01",
+  "release_notes": [
+    "Kuanza kwa App kwa kasi zaidi",
+    "Picha zinapakia haraka",
+    "Kurasa za About, Privacy na Terms zinafunguka hata bila mtandao"
+  ],
+  "contact": {
+    "email": "softwarestanzania@gmail.com",
+    "whatsapp": "https://wa.me/255628552808",
+    "x": "https://www.x.com/ananiaybina",
+    "github": "https://github.com/waitech20",
+    "youtube": "https://www.youtube.com/@abnaniaybina",
+    "facebook": "https://www.facebook.com/softwaresupporttanzania",
+    "telegram": ""
+  }
+}
